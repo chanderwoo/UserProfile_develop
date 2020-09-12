@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.cloudera:collections-generic:4.01-cloudera">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cloudera/collections-generic/4.01-cloudera/collections-generic-4.01-cloudera.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cloudera/collections-generic/4.01-cloudera/collections-generic-4.01-cloudera-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cloudera/collections-generic/4.01-cloudera/collections-generic-4.01-cloudera-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
